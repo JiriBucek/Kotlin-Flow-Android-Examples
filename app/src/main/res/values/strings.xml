@@ -32,4 +32,5 @@
     <string name="distinct_until_changed">Distinct Until Changed</string>
     <string name="on_completion">On Completion</string>
     <string name="on_start">on Start</string>
+    <string name="input_hint">Add input</string>
 </resources>
